@@ -1,0 +1,12 @@
+android:label="@string/title_activity_take_photo"android:label="@string/title_activity_take_photo"<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Catify</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Main Menu</string>
+    <string name="title_activity_take_photo">TakePhoto</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="saved_photos">Saved Photos</string>
+    <string name="title_activity_save_photo">SavePhoto</string>
+
+</resources>
